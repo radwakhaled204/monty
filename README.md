@@ -1,4 +1,4 @@
-# The Monty Program
+# The Monty Program by Radwa Khaled and Ahmed Alsayed
 
 This is a C implementation of "The Monty Program," a stack program that includes extended opcodes for advanced functionality.
 
